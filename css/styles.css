@@ -728,8 +728,6 @@ input::placeholder{
 .checkbox:checked + .custom-label-user-checkbox > .custom-checkbox {
     border:none;
     background-color: #404bbf;
-}
-.checkbox:checked > .custom-checkbox {
     fill: #F4F4FD;
 }
 .modal-submit {
